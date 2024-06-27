@@ -1,0 +1,11 @@
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\bin\Debug\PartiSeçim.exe.config
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\bin\Debug\PartiSeçim.exe
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\bin\Debug\PartiSeçim.pdb
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.csprojAssemblyReference.cache
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.FrmGrafikler.resources
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.Properties.Resources.resources
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.csproj.GenerateResource.cache
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.csproj.CoreCompileInputs.cache
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.exe
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.pdb
+C:\Users\okan113\source\repos\PartiSeçim\PartiSeçim\obj\Debug\PartiSeçim.FrmOyGiris.resources
